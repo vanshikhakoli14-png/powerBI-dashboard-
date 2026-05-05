@@ -5,5 +5,5 @@
 ![Dashboard](dashboard.png.jpeg)
 
 ## Project File
-- sales analysis dashboard.pbix
+- dashboard.pbix
 - dashboard.png.jpeg
