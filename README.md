@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpeg)
 
 ## Project File
 - sales analysis dashboard.pbix
