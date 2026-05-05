@@ -7,4 +7,3 @@
 ## Project File
 - sales analysis dashboard.pbix
 - dashboard.png
-- # powerBI-dashboard-
