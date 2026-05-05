@@ -6,4 +6,4 @@
 
 ## Project File
 - sales analysis dashboard.pbix
-- dashboard.png
+- dashboard.png.jpeg
